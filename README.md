@@ -1,4 +1,4 @@
-# **🛜 Network Scanner Web Application 🛜**  
+# **🛜 Network Scanner Web 🛜**  
 This web application allows you to scan and display nearby Wi-Fi networks along with their signal strength, security type, and other details.  
 It is designed to be used on Windows systems, utilizing the netsh command to scan for available networks.  
 
